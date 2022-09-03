@@ -1,0 +1,10 @@
+D:\PROGRAMA_BOVINO\PROGRAMA_BOVINO.app\bovino.dominio\obj\Debug\netstandard2.1\bovino.dominio.csproj.AssemblyReference.cache
+D:\PROGRAMA_BOVINO\PROGRAMA_BOVINO.app\bovino.dominio\obj\Debug\netstandard2.1\bovino.dominio.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROGRAMA_BOVINO\PROGRAMA_BOVINO.app\bovino.dominio\obj\Debug\netstandard2.1\bovino.dominio.AssemblyInfoInputs.cache
+D:\PROGRAMA_BOVINO\PROGRAMA_BOVINO.app\bovino.dominio\obj\Debug\netstandard2.1\bovino.dominio.AssemblyInfo.cs
+D:\PROGRAMA_BOVINO\PROGRAMA_BOVINO.app\bovino.dominio\obj\Debug\netstandard2.1\bovino.dominio.csproj.CoreCompileInputs.cache
+D:\PROGRAMA_BOVINO\PROGRAMA_BOVINO.app\bovino.dominio\bin\Debug\netstandard2.1\bovino.dominio.deps.json
+D:\PROGRAMA_BOVINO\PROGRAMA_BOVINO.app\bovino.dominio\bin\Debug\netstandard2.1\bovino.dominio.dll
+D:\PROGRAMA_BOVINO\PROGRAMA_BOVINO.app\bovino.dominio\bin\Debug\netstandard2.1\bovino.dominio.pdb
+D:\PROGRAMA_BOVINO\PROGRAMA_BOVINO.app\bovino.dominio\obj\Debug\netstandard2.1\bovino.dominio.dll
+D:\PROGRAMA_BOVINO\PROGRAMA_BOVINO.app\bovino.dominio\obj\Debug\netstandard2.1\bovino.dominio.pdb

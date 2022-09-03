@@ -1,0 +1,5 @@
+D:\PROGRAMA_BOVINO\PROGRAMA_BOVINO.app\PROGRAMA_BOVINO.persistencia\obj\Debug\net6.0\PROGRAMA_BOVINO.persistencia.csproj.AssemblyReference.cache
+D:\PROGRAMA_BOVINO\PROGRAMA_BOVINO.app\PROGRAMA_BOVINO.persistencia\obj\Debug\net6.0\PROGRAMA_BOVINO.persistencia.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROGRAMA_BOVINO\PROGRAMA_BOVINO.app\PROGRAMA_BOVINO.persistencia\obj\Debug\net6.0\PROGRAMA_BOVINO.persistencia.AssemblyInfoInputs.cache
+D:\PROGRAMA_BOVINO\PROGRAMA_BOVINO.app\PROGRAMA_BOVINO.persistencia\obj\Debug\net6.0\PROGRAMA_BOVINO.persistencia.AssemblyInfo.cs
+D:\PROGRAMA_BOVINO\PROGRAMA_BOVINO.app\PROGRAMA_BOVINO.persistencia\obj\Debug\net6.0\PROGRAMA_BOVINO.persistencia.csproj.CoreCompileInputs.cache
