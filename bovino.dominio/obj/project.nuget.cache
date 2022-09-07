@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "dLapBwotfMVHt2BsmqC0UGlRzpDK+pDyI1AZzPOTPYKYPZw1m/GURoKXc9qlBHY8Kh/dvm1hZzFS92kO9sn8Tg==",
+  "dgSpecHash": "tXfp2gET/RYmjRnK6SQJ/SoYTWnmUZARXlVW6nG/TOsFSY/S+h3iBeRW/cWDkixAvmtq8ew9gtnQ1iTcnK1Djg==",
   "success": true,
-  "projectFilePath": "D:\\PROGRAMA_BOVINO\\PROGRAMA_BOVINO.app\\bovino.dominio\\bovino.dominio.csproj",
+  "projectFilePath": "D:\\CuidadoBovinoMinticC3\\bovino.dominio\\bovino.dominio.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Fredd\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\Fredd\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"

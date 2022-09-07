@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "frKczSYYzgHV/QxDQHxwomU0fnFuDRQd+tysFyl6QOhIbJp+ZncBpvuWoMuxYcD6Q+Y5rEFTN5ab5/mjK8QSSg==",
+  "dgSpecHash": "hS0qVOVWUUttv911iM+CsNcbLrfI17Ozq7zxcgrPtndkIq3aIGctcqtfThRC2AF4/ijM/TIflqMmhd7aAf+0og==",
   "success": true,
-  "projectFilePath": "D:\\PROGRAMA_BOVINO\\PROGRAMA_BOVINO.app\\PROGRAMA_BOVINO.persistencia\\PROGRAMA_BOVINO.persistencia.csproj",
+  "projectFilePath": "D:\\CuidadoBovinoMinticC3\\PROGRAMA_BOVINO.persistencia\\PROGRAMA_BOVINO.persistencia.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Fredd\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Fredd\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

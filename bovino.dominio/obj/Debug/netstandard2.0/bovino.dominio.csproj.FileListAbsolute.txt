@@ -8,3 +8,13 @@ D:\PROGRAMA_BOVINO\PROGRAMA_BOVINO.app\bovino.dominio\obj\Debug\netstandard2.0\b
 D:\PROGRAMA_BOVINO\PROGRAMA_BOVINO.app\bovino.dominio\obj\Debug\netstandard2.0\bovino.dominio.csproj.CoreCompileInputs.cache
 D:\PROGRAMA_BOVINO\PROGRAMA_BOVINO.app\bovino.dominio\obj\Debug\netstandard2.0\bovino.dominio.dll
 D:\PROGRAMA_BOVINO\PROGRAMA_BOVINO.app\bovino.dominio\obj\Debug\netstandard2.0\bovino.dominio.pdb
+D:\CuidadoBovinoMinticC3\bovino.dominio\bin\Debug\netstandard2.0\bovino.dominio.deps.json
+D:\CuidadoBovinoMinticC3\bovino.dominio\bin\Debug\netstandard2.0\bovino.dominio.dll
+D:\CuidadoBovinoMinticC3\bovino.dominio\bin\Debug\netstandard2.0\bovino.dominio.pdb
+D:\CuidadoBovinoMinticC3\bovino.dominio\obj\Debug\netstandard2.0\bovino.dominio.csproj.AssemblyReference.cache
+D:\CuidadoBovinoMinticC3\bovino.dominio\obj\Debug\netstandard2.0\bovino.dominio.GeneratedMSBuildEditorConfig.editorconfig
+D:\CuidadoBovinoMinticC3\bovino.dominio\obj\Debug\netstandard2.0\bovino.dominio.AssemblyInfoInputs.cache
+D:\CuidadoBovinoMinticC3\bovino.dominio\obj\Debug\netstandard2.0\bovino.dominio.AssemblyInfo.cs
+D:\CuidadoBovinoMinticC3\bovino.dominio\obj\Debug\netstandard2.0\bovino.dominio.csproj.CoreCompileInputs.cache
+D:\CuidadoBovinoMinticC3\bovino.dominio\obj\Debug\netstandard2.0\bovino.dominio.dll
+D:\CuidadoBovinoMinticC3\bovino.dominio\obj\Debug\netstandard2.0\bovino.dominio.pdb

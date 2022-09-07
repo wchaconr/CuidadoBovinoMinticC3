@@ -11,3 +11,16 @@ D:\PROGRAMA_BOVINO\PROGRAMA_BOVINO.app\PROGRAMA_BOVINO.persistencia\bin\Debug\ne
 D:\PROGRAMA_BOVINO\PROGRAMA_BOVINO.app\PROGRAMA_BOVINO.persistencia\obj\Debug\netstandard2.1\PROGRAMA_BOVINO.persistencia.csproj.CopyComplete
 D:\PROGRAMA_BOVINO\PROGRAMA_BOVINO.app\PROGRAMA_BOVINO.persistencia\obj\Debug\netstandard2.1\PROGRAMA_BOVINO.persistencia.dll
 D:\PROGRAMA_BOVINO\PROGRAMA_BOVINO.app\PROGRAMA_BOVINO.persistencia\obj\Debug\netstandard2.1\PROGRAMA_BOVINO.persistencia.pdb
+D:\CuidadoBovinoMinticC3\PROGRAMA_BOVINO.persistencia\bin\Debug\netstandard2.1\PROGRAMA_BOVINO.persistencia.deps.json
+D:\CuidadoBovinoMinticC3\PROGRAMA_BOVINO.persistencia\bin\Debug\netstandard2.1\PROGRAMA_BOVINO.persistencia.dll
+D:\CuidadoBovinoMinticC3\PROGRAMA_BOVINO.persistencia\bin\Debug\netstandard2.1\PROGRAMA_BOVINO.persistencia.pdb
+D:\CuidadoBovinoMinticC3\PROGRAMA_BOVINO.persistencia\bin\Debug\netstandard2.1\bovino.dominio.dll
+D:\CuidadoBovinoMinticC3\PROGRAMA_BOVINO.persistencia\bin\Debug\netstandard2.1\bovino.dominio.pdb
+D:\CuidadoBovinoMinticC3\PROGRAMA_BOVINO.persistencia\obj\Debug\netstandard2.1\PROGRAMA_BOVINO.persistencia.csproj.AssemblyReference.cache
+D:\CuidadoBovinoMinticC3\PROGRAMA_BOVINO.persistencia\obj\Debug\netstandard2.1\PROGRAMA_BOVINO.persistencia.GeneratedMSBuildEditorConfig.editorconfig
+D:\CuidadoBovinoMinticC3\PROGRAMA_BOVINO.persistencia\obj\Debug\netstandard2.1\PROGRAMA_BOVINO.persistencia.AssemblyInfoInputs.cache
+D:\CuidadoBovinoMinticC3\PROGRAMA_BOVINO.persistencia\obj\Debug\netstandard2.1\PROGRAMA_BOVINO.persistencia.AssemblyInfo.cs
+D:\CuidadoBovinoMinticC3\PROGRAMA_BOVINO.persistencia\obj\Debug\netstandard2.1\PROGRAMA_BOVINO.persistencia.csproj.CoreCompileInputs.cache
+D:\CuidadoBovinoMinticC3\PROGRAMA_BOVINO.persistencia\obj\Debug\netstandard2.1\PROGRAMA_BOVINO.persistencia.csproj.CopyComplete
+D:\CuidadoBovinoMinticC3\PROGRAMA_BOVINO.persistencia\obj\Debug\netstandard2.1\PROGRAMA_BOVINO.persistencia.dll
+D:\CuidadoBovinoMinticC3\PROGRAMA_BOVINO.persistencia\obj\Debug\netstandard2.1\PROGRAMA_BOVINO.persistencia.pdb

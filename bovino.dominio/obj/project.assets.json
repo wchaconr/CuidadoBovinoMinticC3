@@ -185,11 +185,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\PROGRAMA_BOVINO\\PROGRAMA_BOVINO.app\\bovino.dominio\\bovino.dominio.csproj",
+      "projectUniqueName": "D:\\CuidadoBovinoMinticC3\\bovino.dominio\\bovino.dominio.csproj",
       "projectName": "bovino.dominio",
-      "projectPath": "D:\\PROGRAMA_BOVINO\\PROGRAMA_BOVINO.app\\bovino.dominio\\bovino.dominio.csproj",
+      "projectPath": "D:\\CuidadoBovinoMinticC3\\bovino.dominio\\bovino.dominio.csproj",
       "packagesPath": "C:\\Users\\Fredd\\.nuget\\packages\\",
-      "outputPath": "D:\\PROGRAMA_BOVINO\\PROGRAMA_BOVINO.app\\bovino.dominio\\obj\\",
+      "outputPath": "D:\\CuidadoBovinoMinticC3\\bovino.dominio\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Fredd\\AppData\\Roaming\\NuGet\\NuGet.Config"
