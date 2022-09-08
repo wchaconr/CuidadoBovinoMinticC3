@@ -3,33 +3,78 @@
 <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>@ViewData["Title"] - PROGRAMA_BOVINO.frontend</title>
+    <title>@ViewData["Title"] - PROGRAMA_BOVINO</title>
     <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
     <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
-    <link rel="stylesheet" href="~/PROGRAMA_BOVINO.frontend.styles.css" asp-append-version="true" />
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@300&display=swap" rel="stylesheet">
+        
 </head>
 <body>
     <header>
-        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
-            <div class="container">
-                <a class="navbar-brand" asp-area="" asp-page="/Index">PROGRAMA_BOVINO.frontend</a>
-                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbarSupportedContent"
-                        aria-expanded="false" aria-label="Toggle navigation">
-                    <span class="navbar-toggler-icon"></span>
-                </button>
-                <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
-                    <ul class="navbar-nav flex-grow-1">
-                        <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-page="/Index">Home</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-page="/Privacy">Privacy</a>
-                        </li>
-                    </ul>
-                </div>
+        <div class="header">
+            <a href="#" class="btnMenu"><i class="fas fa-bars"></i></a>
+            <h1>CUIDADO BOVINO</h1>
+            <div class="optionsBar">
+                <br>
+                <p>Colombia</p>
+                
+                
             </div>
+
+        </div>
+        <nav>
+            <ul>
+                <li><a href="inicio"><i class="fa-solid fa-house-chimney"></i>Inicio</a></li>
+
+                <li class="principal">
+    
+                    <a href="#"><i class="fa-solid fa-users"></i> Bovinos <span class="arrow"><i class="fas fa-angle-down"></i></span></a>
+                    <ul>
+                        <li><a href="aper_vacas"><i class="fa-duotone fa-cow"></i> Apertura de Bovinos</a></li>
+                        <li><a href="lista_vacas"><i class="fa-solid fa-users-line"></i> Lista de Bovinos</a></li>
+                    </ul>
+                    
+                    </li>
+                <li class="principal">
+    
+                    <a href="#"><i class="fa-solid fa-users"></i> Clientes <span class="arrow"><i class="fas fa-angle-down"></i></span></a>
+                    <ul>
+                        <li><a href="aper_propietario"><i class="fa-solid fa-user-plus"></i> Apertura de Clientes</a></li>
+                        <li><a href="lista_propietario"><i class="fa-solid fa-users-line"></i> Lista de Clientes</a></li>
+                    </ul>
+                    
+                    </li>
+                <li class="principal">
+    
+                    <a href="#"><i class="fa-solid fa-users"></i> Veterinarios <span class="arrow"><i class="fas fa-angle-down"></i></span></a>
+                    <ul>
+                        <li><a href="aper_veterinario"><i class="fa-solid fa-user-plus"></i> Apertura de Veterinarios</a></li>
+                        <li><a href="lista_veterinario"><i class="fa-solid fa-users-line"></i> Lista de Veterinarios</a></li>
+                    </ul>
+                    
+                    </li>
+                <li class="principal">
+    
+                    <a href="#"><i class="fa-solid fa-users"></i> Visitas <span class="arrow"><i class="fas fa-angle-down"></i></span></a>
+                    <ul>
+                        <li><a href="visitas"><i class="fa-solid fa-user-plus"></i> Apertura de Visitas</a></li>
+                        <li><a href="lista_visitas"><i class="fa-solid fa-users-line"></i> Lista de Visitas</a></li>
+                    </ul>
+                
+                </li>
+                
+                
+
+            </ul>
+
         </nav>
     </header>
+    <div class="modal">
+        <div class="bodyModal">
+        </div>
+    </div>
     <div class="container">
         <main role="main" class="pb-3">
             @RenderBody()
@@ -38,7 +83,7 @@
 
     <footer class="border-top footer text-muted">
         <div class="container">
-            &copy; 2022 - PROGRAMA_BOVINO.frontend - <a asp-area="" asp-page="/Privacy">Privacy</a>
+            &copy; 2022 - PROGRAMA_BOVINO - <a asp-area="" asp-page="/Privacy">Privacy</a>
         </div>
     </footer>
 

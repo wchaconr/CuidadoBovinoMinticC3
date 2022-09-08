@@ -23,6 +23,42 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
+[D:/CuidadoBovinoMinticC3/PROGRAMA_BOVINO.frontend/Pages/Opciones/aper_propietario.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcT3BjaW9uZXNcYXBlcl9wcm9waWV0YXJpby5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/CuidadoBovinoMinticC3/PROGRAMA_BOVINO.frontend/Pages/Opciones/aper_vacas.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcT3BjaW9uZXNcYXBlcl92YWNhcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/CuidadoBovinoMinticC3/PROGRAMA_BOVINO.frontend/Pages/Opciones/aper_veterinario.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcT3BjaW9uZXNcYXBlcl92ZXRlcmluYXJpby5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/CuidadoBovinoMinticC3/PROGRAMA_BOVINO.frontend/Pages/Opciones/inicio.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcT3BjaW9uZXNcaW5pY2lvLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/CuidadoBovinoMinticC3/PROGRAMA_BOVINO.frontend/Pages/Opciones/lista_propietario.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcT3BjaW9uZXNcbGlzdGFfcHJvcGlldGFyaW8uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/CuidadoBovinoMinticC3/PROGRAMA_BOVINO.frontend/Pages/Opciones/lista_vacas.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcT3BjaW9uZXNcbGlzdGFfdmFjYXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/CuidadoBovinoMinticC3/PROGRAMA_BOVINO.frontend/Pages/Opciones/lista_veterinario.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcT3BjaW9uZXNcbGlzdGFfdmV0ZXJpbmFyaW8uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/CuidadoBovinoMinticC3/PROGRAMA_BOVINO.frontend/Pages/Opciones/lista_visitas.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcT3BjaW9uZXNcbGlzdGFfdmlzaXRhcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/CuidadoBovinoMinticC3/PROGRAMA_BOVINO.frontend/Pages/Opciones/visitas.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcT3BjaW9uZXNcdmlzaXRhcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/CuidadoBovinoMinticC3/PROGRAMA_BOVINO.frontend/Pages/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
