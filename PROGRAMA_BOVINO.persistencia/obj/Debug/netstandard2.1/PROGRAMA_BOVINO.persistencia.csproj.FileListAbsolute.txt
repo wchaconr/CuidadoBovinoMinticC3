@@ -24,3 +24,10 @@ D:\CuidadoBovinoMinticC3\PROGRAMA_BOVINO.persistencia\obj\Debug\netstandard2.1\P
 D:\CuidadoBovinoMinticC3\PROGRAMA_BOVINO.persistencia\obj\Debug\netstandard2.1\PROGRAMA_BOVINO.persistencia.csproj.CopyComplete
 D:\CuidadoBovinoMinticC3\PROGRAMA_BOVINO.persistencia\obj\Debug\netstandard2.1\PROGRAMA_BOVINO.persistencia.dll
 D:\CuidadoBovinoMinticC3\PROGRAMA_BOVINO.persistencia\obj\Debug\netstandard2.1\PROGRAMA_BOVINO.persistencia.pdb
+C:\CuidadoBovinoMinticC3\PROGRAMA_BOVINO.persistencia\obj\Debug\netstandard2.1\PROGRAMA_BOVINO.persistencia.csproj.AssemblyReference.cache
+C:\CuidadoBovinoMinticC3\PROGRAMA_BOVINO.persistencia\obj\Debug\netstandard2.1\PROGRAMA_BOVINO.persistencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\CuidadoBovinoMinticC3\PROGRAMA_BOVINO.persistencia\obj\Debug\netstandard2.1\PROGRAMA_BOVINO.persistencia.AssemblyInfoInputs.cache
+C:\CuidadoBovinoMinticC3\PROGRAMA_BOVINO.persistencia\obj\Debug\netstandard2.1\PROGRAMA_BOVINO.persistencia.AssemblyInfo.cs
+C:\CuidadoBovinoMinticC3\PROGRAMA_BOVINO.persistencia\obj\Debug\netstandard2.1\PROGRAMA_BOVINO.persistencia.csproj.CoreCompileInputs.cache
+C:\CuidadoBovinoMinticC3\PROGRAMA_BOVINO.persistencia\obj\Debug\netstandard2.1\PROGRAMA_BOVINO.persistencia.dll
+C:\CuidadoBovinoMinticC3\PROGRAMA_BOVINO.persistencia\obj\Debug\netstandard2.1\PROGRAMA_BOVINO.persistencia.pdb

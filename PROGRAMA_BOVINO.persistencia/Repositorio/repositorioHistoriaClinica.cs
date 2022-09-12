@@ -3,23 +3,23 @@ using System.Collections.Generic;
 using System.Linq;
 
 namespace PROGRAMA_BOVINO.persistencia{
-    public class repositorioHistoriaClinica : interRepositorioVacas {
+    public class repositorioHistoriaClinica : interRepositorioHistoriaClinica {
         
         private readonly appContext _appContext;
         public repositorioHistoriaClinica(appContext appContext1){
             _appContext=appContext1;
         }
         
-        Historia_Clinica interRepositorioVacas.AddHistoriaClinica(Historia_Clinica historiaClinica){
+        Historia_Clinica interRepositorioHistoriaClinica.AddHistoriaClinica(Historia_Clinica historiaClinica){
             var addedHistoriaClinica=_appContext.Historia_Clinica.Add(historiaClinica);
             _appContext.SaveChanges();
             return addedHistoriaClinica.Entity;
             
         }
-        IEnumerable<Historia_Clinica> interRepositorioVacas.GetAllHistoriaClinica(){
+        IEnumerable<Historia_Clinica> interRepositorioHistoriaClinica.GetAllHistoriaClinica(){
             return _appContext.Historia_Clinica;
         }
-        void interRepositorioVacas.DeleteHistoriaClinica(int idHistoriaClinica){
+        void interRepositorioHistoriaClinica.DeleteHistoriaClinica(int idHistoriaClinica){
             var foundHistoriaClinica = _appContext.Historia_Clinica.FirstOrDefault(p=>p.id==idHistoriaClinica);
             if(foundHistoriaClinica==null){
                 return;
@@ -27,7 +27,7 @@ namespace PROGRAMA_BOVINO.persistencia{
             _appContext.Historia_Clinica.Remove(foundHistoriaClinica);
             _appContext.SaveChanges();
         }
-        Historia_Clinica interRepositorioVacas.UpdateHistoriaClinica(Historia_Clinica newHistoriaClinica){
+        Historia_Clinica interRepositorioHistoriaClinica.UpdateHistoriaClinica(Historia_Clinica newHistoriaClinica){
             var foundHistoriaClinica = _appContext.Historia_Clinica.FirstOrDefault(p=>p.id==newHistoriaClinica.id);
             if(foundHistoriaClinica!=null){
                 foundHistoriaClinica.Fecha_Visita=newHistoriaClinica.Fecha_Visita;
@@ -45,7 +45,7 @@ namespace PROGRAMA_BOVINO.persistencia{
             }
             return foundHistoriaClinica;
         }
-        Historia_Clinica interRepositorioVacas.GetHistoriaClinica(int idHistoriaClinica){
+        Historia_Clinica interRepositorioHistoriaClinica.GetHistoriaClinica(int idHistoriaClinica){
             return _appContext.Historia_Clinica.FirstOrDefault(p=>p.id==idHistoriaClinica);
         }
     }
