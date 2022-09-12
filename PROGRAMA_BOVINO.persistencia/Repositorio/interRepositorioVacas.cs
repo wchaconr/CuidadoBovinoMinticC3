@@ -10,4 +10,20 @@ namespace PROGRAMA_BOVINO.persistencia {
         Aper_vaca GetVaca(int idVaca);
 
     }
+    public interface interPropietario {
+        IEnumerable<Aper_propietario> GetAllPropietario();
+        Aper_propietario AddPropietario(Aper_propietario propietario);
+        Aper_propietario UpdatePropietario(Aper_propietario propietario);
+        void DeletePropietario(int IdPropietario);
+        Aper_propietario GetPropietario(int IdPropietario);
+
+    }
+    public interface interVeterinario {
+        IEnumerable<Aper_veterinario> GetAllVeterinario();
+        Aper_veterinario AddVeterinario(Aper_veterinario veterinario);
+        Aper_veterinario UpdateVeterinario(Aper_veterinario veterinario);
+        void DeleteVeterinario(int IdVeterinario);
+        Aper_veterinario GetVeterinario(int IdVeterinario);
+
+    }
 }
