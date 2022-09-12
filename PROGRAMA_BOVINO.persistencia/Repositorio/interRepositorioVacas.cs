@@ -27,4 +27,12 @@ namespace PROGRAMA_BOVINO.persistencia {
         Aper_veterinario GetVeterinario(int IdVeterinario);
 
     }
+    public interface interHistoriaClinica {
+        IEnumerable<Historia_Clinica> GetAllHistoriaClinica();
+        Historia_Clinica AddHistoriaClinica(Historia_Clinica historia_Clinica);
+        Historia_Clinica UpdateHistoriaClinica(Historia_Clinica historia_Clinica);
+        void DeleteHistoriaClinica(int IdHistoriaClinica);
+        Historia_Clinica GetHistoria_Clinica(int IdHistoriaClinica);
+
+    }
 }

@@ -10,7 +10,7 @@ namespace PROGRAMA_BOVINO.persistencia{
             _appContext=appContext1;
         }
         
-        Aper_vaca interRepositorioVacas.AddPropietario(Aper_propietario propietario){
+        Aper_propietario interRepositorioVacas.AddPropietario(Aper_propietario propietario){
             var addedPropietario=_appContext.Aper_propietario.Add(propietario);
             _appContext.SaveChanges();
             return addedPropietario.Entity;
@@ -20,30 +20,30 @@ namespace PROGRAMA_BOVINO.persistencia{
             return _appContext.Aper_propietario;
         }
         void interRepositorioVacas.DeletePropietario(int IdPropietario){
-            var foundVaca = _appContext.Aper_vaca.FirstOrDefault(p=>p.id==idPatient);
-            if(foundVaca==null){
+            var foundPropietario = _appContext.Aper_propietario.FirstOrDefault(p=>p.id==IdPropietario);
+            if(foundPropietario==null){
                 return;
             }
-            _appContext.Aper_vaca.Remove(foundVaca);
+            _appContext.Aper_propietario.Remove(foundPropietario);
             _appContext.SaveChanges();
         }
-        Aper_vaca interRepositorioVacas.UpdateVaca(Aper_vaca newVaca){
-            var foundVaca = _appContext.Aper_vaca.FirstOrDefault(p=>p.id==newPatient.id);
-            if(foundVaca!=null){
-                foundVaca.Cod_Vaca=newVaca.Cod_Vaca;
-                foundVaca.Nombre=newVaca.Nombre;
-                foundVaca.Color=newVaca.Color;
-                foundVaca.Raza=newVaca.Raza;
-                foundVaca.Edad=newVaca.Edad;
-                foundVaca.Propietario=newVaca.Propietario;
-                foundVaca.Veterinario=newVaca.Veterinario;
-                foundVaca.Ubicacion=newVaca.Ubicacion;
+        Aper_propietario interRepositorioVacas.UpdatePropietario(Aper_propietario newPropietario){
+            var foundPropietario = _appContext.Aper_propietario.FirstOrDefault(p=>p.id==newPropietario.id);
+            if(foundPropietario!=null){
+                foundPropietario.Id_Propietario=newPropietario.Id_Propietario;
+                foundPropietario.Nombre=newPropietario.Nombre;
+                foundPropietario.Apellido=newPropietario.Apellido;
+                foundPropietario.Direccion=newPropietario.Direccion;
+                foundPropietario.Telefono=newPropietario.Telefono;
+                foundPropietario.E_mail=newPropietario.E_mail;
+                foundPropietario.Genero=newPropietario.Genero;
+                foundPropietario.Nombre_Hacienda=newPropietario.Nombre_Hacienda;
                 _appContext.SaveChanges();
             }
-            return foundVaca;
+            return foundPropietario;
         }
-        Aper_vaca interRepositorioVacas.GetVaca(int idVaca){
-            return _appContext.Aper_vaca.FirstOrDefault(p=>p.id==idVaca);
+        Aper_propietario interRepositorioVacas.GetPropietario(int IdPropietario){
+            return _appContext.Aper_propietario.FirstOrDefault(p=>p.id==IdPropietario);
         }
     }
 }
