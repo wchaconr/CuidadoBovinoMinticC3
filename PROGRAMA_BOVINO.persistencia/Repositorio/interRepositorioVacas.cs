@@ -18,6 +18,7 @@ namespace PROGRAMA_BOVINO.persistencia {
         Aper_propietario GetPropietario(int IdPropietario);
 
     }
+    
     public interface interVeterinario {
         IEnumerable<Aper_veterinario> GetAllVeterinario();
         Aper_veterinario AddVeterinario(Aper_veterinario veterinario);
