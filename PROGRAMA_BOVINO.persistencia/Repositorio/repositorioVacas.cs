@@ -20,15 +20,15 @@ namespace PROGRAMA_BOVINO.persistencia{
             return _appContext.Aper_vaca;
         }
         void interRepositorioVacas.DeleteVaca(int idVaca){
-            var foundVaca = _appContext.Aper_vaca.FirstOrDefault(p=>p.id==idPatient);
+            var foundVaca = _appContext.Aper_vaca.FirstOrDefault(p=>p.id==idVaca);
             if(foundVaca==null){
                 return;
             }
             _appContext.Aper_vaca.Remove(foundVaca);
             _appContext.SaveChanges();
         }
-        Aper_vaca interRepositorioVacas.UpdateVaca(Aper_vaca newVaca){
-            var foundVaca = _appContext.Aper_vaca.FirstOrDefault(p=>p.id==newPatient.id);
+        Aper_vaca interRepositorioVacas.UpdateVaca(Aper_vaca idVaca){
+            var foundVaca = _appContext.Aper_vaca.FirstOrDefault(p=>p.id==idVaca.id);
             if(foundVaca!=null){
                 foundVaca.Cod_Vaca=newVaca.Cod_Vaca;
                 foundVaca.Nombre=newVaca.Nombre;
