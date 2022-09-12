@@ -1,5 +1,10 @@
 <Project Sdk="Microsoft.NET.Sdk.Web">
 
+  <ItemGroup>
+    <ProjectReference Include="..\bovino.dominio\bovino.dominio.csproj" />
+    <ProjectReference Include="..\PROGRAMA_BOVINO.persistencia\PROGRAMA_BOVINO.persistencia.csproj" />
+  </ItemGroup>
+
   <PropertyGroup>
     <TargetFramework>net6.0</TargetFramework>
     <Nullable>enable</Nullable>
