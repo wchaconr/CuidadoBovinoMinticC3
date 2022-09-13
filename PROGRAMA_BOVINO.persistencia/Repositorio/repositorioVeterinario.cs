@@ -4,7 +4,7 @@ using System.Linq;
 
 namespace PROGRAMA_BOVINO.persistencia
 {
-    public class repositorioVeterinario : interRepositorioVacas
+    public class repositorioVeterinario : interRepositorioVeterinario
     {
 
         private readonly appContext _appContext;
@@ -13,18 +13,18 @@ namespace PROGRAMA_BOVINO.persistencia
             _appContext = appContext1;
         }
 
-        Aper_veterinario interRepositorioVacas.AddVeterinario(Aper_veterinario veterinario)
+        Aper_veterinario interRepositorioVeterinario.AddVeterinario(Aper_veterinario veterinario)
         {
             var addedVeterinario = _appContext.Aper_veterinario.Add(veterinario);
             _appContext.SaveChanges();
             return addedVeterinario.Entity;
 
         }
-        IEnumerable<Aper_veterinario> interRepositorioVacas.GetAllVeterinarios()
+        IEnumerable<Aper_veterinario> interRepositorioVeterinario.GetAllVeterinarios()
         {
             return _appContext.Aper_veterinario;
         }
-        void interRepositorioVacas.DeleteVeterinario(int idVeterinario)
+        void interRepositorioVeterinario.DeleteVeterinario(int idVeterinario)
         {
             var foundVeterinario = _appContext.Aper_veterinario.FirstOrDefault(p => p.id == idVeterinario);
             if (foundVeterinario == null)
@@ -34,7 +34,7 @@ namespace PROGRAMA_BOVINO.persistencia
             _appContext.Aper_veterinario.Remove(foundVeterinario);
             _appContext.SaveChanges();
         }
-        Aper_veterinario interRepositorioVacas.UpdateVeterinario(Aper_veterinario newVeterinario)
+        Aper_veterinario interRepositorioVeterinario.UpdateVeterinario(Aper_veterinario newVeterinario)
         {
             var foundVeterinario = _appContext.Aper_veterinario.FirstOrDefault(p => p.id == newVeterinario.id);
             if (foundVeterinario != null)
@@ -52,7 +52,7 @@ namespace PROGRAMA_BOVINO.persistencia
             }
             return foundVeterinario;
         }
-        Aper_veterinario interRepositorioVacas.GetVeterinario(int idVeterinario)
+        Aper_veterinario interRepositorioVeterinario.GetVeterinario(int idVeterinario)
         {
             return _appContext.Aper_veterinario.FirstOrDefault(p => p.id == idVeterinario);
         }
