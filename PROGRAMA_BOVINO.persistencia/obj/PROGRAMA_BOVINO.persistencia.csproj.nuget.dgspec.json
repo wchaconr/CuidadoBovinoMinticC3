@@ -10,11 +10,19 @@
         "projectUniqueName": "C:\\CuidadoBovinoMinticC3\\bovino.dominio\\bovino.dominio.csproj",
         "projectName": "bovino.dominio",
         "projectPath": "C:\\CuidadoBovinoMinticC3\\bovino.dominio\\bovino.dominio.csproj",
+<<<<<<< HEAD
         "packagesPath": "C:\\Users\\USUARIO\\.nuget\\packages\\",
         "outputPath": "C:\\CuidadoBovinoMinticC3\\bovino.dominio\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\USUARIO\\AppData\\Roaming\\NuGet\\NuGet.Config"
+=======
+        "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
+        "outputPath": "C:\\CuidadoBovinoMinticC3\\bovino.dominio\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config"
+>>>>>>> 9d8a5b6b799b61fd442a5b1e5c94e46ee47a79a8
         ],
         "originalTargetFrameworks": [
           "netstandard2.0"
@@ -66,11 +74,19 @@
         "projectUniqueName": "C:\\CuidadoBovinoMinticC3\\PROGRAMA_BOVINO.persistencia\\PROGRAMA_BOVINO.persistencia.csproj",
         "projectName": "PROGRAMA_BOVINO.persistencia",
         "projectPath": "C:\\CuidadoBovinoMinticC3\\PROGRAMA_BOVINO.persistencia\\PROGRAMA_BOVINO.persistencia.csproj",
+<<<<<<< HEAD
         "packagesPath": "C:\\Users\\USUARIO\\.nuget\\packages\\",
         "outputPath": "C:\\CuidadoBovinoMinticC3\\PROGRAMA_BOVINO.persistencia\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\USUARIO\\AppData\\Roaming\\NuGet\\NuGet.Config"
+=======
+        "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
+        "outputPath": "C:\\CuidadoBovinoMinticC3\\PROGRAMA_BOVINO.persistencia\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config"
+>>>>>>> 9d8a5b6b799b61fd442a5b1e5c94e46ee47a79a8
         ],
         "originalTargetFrameworks": [
           "netstandard2.1"
