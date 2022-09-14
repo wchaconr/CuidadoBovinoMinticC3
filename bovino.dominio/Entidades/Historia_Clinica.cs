@@ -5,7 +5,6 @@ namespace bovino.dominio
     public class Historia_Clinica
     {
         public int id{get;set;}
-        public int Id_Historia{get;set;}
         public String Fecha_Visita{get;set;}
         public int Id_Vaca{get;set;}
         public int Id_Veterinario{get;set;}

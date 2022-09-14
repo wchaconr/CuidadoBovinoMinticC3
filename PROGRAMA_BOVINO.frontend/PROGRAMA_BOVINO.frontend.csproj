@@ -1,6 +1,7 @@
 <Project Sdk="Microsoft.NET.Sdk.Web">
 
   <ItemGroup>
+    <ProjectReference Include="..\bovino.dominio\bovino.dominio.csproj" />
     <ProjectReference Include="..\PROGRAMA_BOVINO.persistencia\PROGRAMA_BOVINO.persistencia.csproj" />
   </ItemGroup>
 
