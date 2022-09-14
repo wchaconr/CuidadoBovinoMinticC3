@@ -34,5 +34,6 @@ namespace PROGRAMA_BOVINO.persistencia {
         void DeleteHistoriaClinica(int IdHistoriaClinica);
         Historia_Clinica GetHistoria_Clinica(int IdHistoriaClinica);
 
+
     }
 }
