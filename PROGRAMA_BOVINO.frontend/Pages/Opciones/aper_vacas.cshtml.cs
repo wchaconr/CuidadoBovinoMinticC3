@@ -14,5 +14,6 @@ namespace cuidadobovinominticc3.Pages
             ListaOpciones= new List<string>();
             ListaOpciones.AddRange(TiposOpciones);
         }
+        
     }
 }

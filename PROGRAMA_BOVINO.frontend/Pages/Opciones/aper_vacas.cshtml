@@ -2,28 +2,37 @@
 @model cuidadobovinominticc3.Pages.aper_vacasModel
 @{
 }
+
 <br>
 <br>
 
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  
+	<meta charset="UTF-8">
+	<title>Registro Bovinos</title>
+</head>
+<body>
 <section id="container">
     <div class="form_register">
         <h1><img  src="https://cdn.icon-icons.com/icons2/1446/PNG/512/22234cow_98756.png"width="50"/> Registro Vacas</h1>
         <form action="" method="post">
             <label for="Cod_Vaca">Codigo</label>
-            <input type="number" name="Cod_Vaca" id="Cod_Vaca" placeholder="Codigo">
+            <input type="number" name="Cod_Vaca" id="Cod_Vaca" placeholder="Codigo" required>
             <label for="Nombre">Nombre</label>
-            <input type="text" name="Nombre" id="Nombre" placeholder="Nombre ">
+            <input type="text" name="Nombre" id="Nombre" placeholder="Nombre " required>
             <label for="Color">Color</label>
-            <input type="text" name="Color" id="Color" placeholder="Color">
+            <input type="text" name="Color" id="Color" placeholder="Color" required>
             <label for="Raza">Raza</label>
-            <input type="text" name="Raza" id="Raza" placeholder="Raza">
+            <input type="text" name="Raza" id="Raza" placeholder="Raza" required>
             <label for="Edad">Edad</label>
-            <input type="text" name="Edad" id="Edad" placeholder="Edad">
+            <input type="text" name="Edad" id="Edad" placeholder="Edad" >
             <label for="Propietario">Propietario</label>
-            <input type="text" name="Propietario" id="Propietario" placeholder="Propietario">
+            <input type="text" name="Propietario" id="Propietario" placeholder="Propietario" required>
             <label for="Veterinario">Veterinario</label>
-            <input type="text" name="Veterinario" id="Veterinario" placeholder="Veterinario">
+            <input type="text" name="Veterinario" id="Veterinario" placeholder="Veterinario" required>
             <label for="Ubicacion">Ubicacion</label>
             <input type="text" name="Ubicacion" id="Ubicacion" placeholder="Ubicacion">
         
@@ -35,5 +44,6 @@
 
 
 </section>
-
+</body>
+</html>
 

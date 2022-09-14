@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\PROGRAMA_BOVINO\\PROGRAMA_BOVINO.app\\PROGRAMA_BOVINO.consola\\PROGRAMA_BOVINO.consola.csproj": {}
+    "D:\\CuidadoBovinoMinticC3\\PROGRAMA_BOVINO.consola\\PROGRAMA_BOVINO.consola.csproj": {}
   },
   "projects": {
-    "D:\\PROGRAMA_BOVINO\\PROGRAMA_BOVINO.app\\bovino.dominio\\bovino.dominio.csproj": {
+    "D:\\CuidadoBovinoMinticC3\\bovino.dominio\\bovino.dominio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\PROGRAMA_BOVINO\\PROGRAMA_BOVINO.app\\bovino.dominio\\bovino.dominio.csproj",
+        "projectUniqueName": "D:\\CuidadoBovinoMinticC3\\bovino.dominio\\bovino.dominio.csproj",
         "projectName": "bovino.dominio",
-        "projectPath": "D:\\PROGRAMA_BOVINO\\PROGRAMA_BOVINO.app\\bovino.dominio\\bovino.dominio.csproj",
+        "projectPath": "D:\\CuidadoBovinoMinticC3\\bovino.dominio\\bovino.dominio.csproj",
         "packagesPath": "C:\\Users\\Fredd\\.nuget\\packages\\",
-        "outputPath": "D:\\PROGRAMA_BOVINO\\PROGRAMA_BOVINO.app\\bovino.dominio\\obj\\",
+        "outputPath": "D:\\CuidadoBovinoMinticC3\\bovino.dominio\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Fredd\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -60,14 +60,14 @@
         }
       }
     },
-    "D:\\PROGRAMA_BOVINO\\PROGRAMA_BOVINO.app\\PROGRAMA_BOVINO.consola\\PROGRAMA_BOVINO.consola.csproj": {
+    "D:\\CuidadoBovinoMinticC3\\PROGRAMA_BOVINO.consola\\PROGRAMA_BOVINO.consola.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\PROGRAMA_BOVINO\\PROGRAMA_BOVINO.app\\PROGRAMA_BOVINO.consola\\PROGRAMA_BOVINO.consola.csproj",
+        "projectUniqueName": "D:\\CuidadoBovinoMinticC3\\PROGRAMA_BOVINO.consola\\PROGRAMA_BOVINO.consola.csproj",
         "projectName": "PROGRAMA_BOVINO.consola",
-        "projectPath": "D:\\PROGRAMA_BOVINO\\PROGRAMA_BOVINO.app\\PROGRAMA_BOVINO.consola\\PROGRAMA_BOVINO.consola.csproj",
+        "projectPath": "D:\\CuidadoBovinoMinticC3\\PROGRAMA_BOVINO.consola\\PROGRAMA_BOVINO.consola.csproj",
         "packagesPath": "C:\\Users\\Fredd\\.nuget\\packages\\",
-        "outputPath": "D:\\PROGRAMA_BOVINO\\PROGRAMA_BOVINO.app\\PROGRAMA_BOVINO.consola\\obj\\",
+        "outputPath": "D:\\CuidadoBovinoMinticC3\\PROGRAMA_BOVINO.consola\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Fredd\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -82,8 +82,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\PROGRAMA_BOVINO\\PROGRAMA_BOVINO.app\\PROGRAMA_BOVINO.persistencia\\PROGRAMA_BOVINO.persistencia.csproj": {
-                "projectPath": "D:\\PROGRAMA_BOVINO\\PROGRAMA_BOVINO.app\\PROGRAMA_BOVINO.persistencia\\PROGRAMA_BOVINO.persistencia.csproj"
+              "D:\\CuidadoBovinoMinticC3\\PROGRAMA_BOVINO.persistencia\\PROGRAMA_BOVINO.persistencia.csproj": {
+                "projectPath": "D:\\CuidadoBovinoMinticC3\\PROGRAMA_BOVINO.persistencia\\PROGRAMA_BOVINO.persistencia.csproj"
               }
             }
           }
@@ -125,30 +125,30 @@
         }
       }
     },
-    "D:\\PROGRAMA_BOVINO\\PROGRAMA_BOVINO.app\\PROGRAMA_BOVINO.persistencia\\PROGRAMA_BOVINO.persistencia.csproj": {
+    "D:\\CuidadoBovinoMinticC3\\PROGRAMA_BOVINO.persistencia\\PROGRAMA_BOVINO.persistencia.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\PROGRAMA_BOVINO\\PROGRAMA_BOVINO.app\\PROGRAMA_BOVINO.persistencia\\PROGRAMA_BOVINO.persistencia.csproj",
+        "projectUniqueName": "D:\\CuidadoBovinoMinticC3\\PROGRAMA_BOVINO.persistencia\\PROGRAMA_BOVINO.persistencia.csproj",
         "projectName": "PROGRAMA_BOVINO.persistencia",
-        "projectPath": "D:\\PROGRAMA_BOVINO\\PROGRAMA_BOVINO.app\\PROGRAMA_BOVINO.persistencia\\PROGRAMA_BOVINO.persistencia.csproj",
+        "projectPath": "D:\\CuidadoBovinoMinticC3\\PROGRAMA_BOVINO.persistencia\\PROGRAMA_BOVINO.persistencia.csproj",
         "packagesPath": "C:\\Users\\Fredd\\.nuget\\packages\\",
-        "outputPath": "D:\\PROGRAMA_BOVINO\\PROGRAMA_BOVINO.app\\PROGRAMA_BOVINO.persistencia\\obj\\",
+        "outputPath": "D:\\CuidadoBovinoMinticC3\\PROGRAMA_BOVINO.persistencia\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Fredd\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
-          "netstandard2.1"
+          "net6.0"
         ],
         "sources": {
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "netstandard2.1": {
-            "targetAlias": "netstandard2.1",
+          "net6.0": {
+            "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\PROGRAMA_BOVINO\\PROGRAMA_BOVINO.app\\bovino.dominio\\bovino.dominio.csproj": {
-                "projectPath": "D:\\PROGRAMA_BOVINO\\PROGRAMA_BOVINO.app\\bovino.dominio\\bovino.dominio.csproj"
+              "D:\\CuidadoBovinoMinticC3\\bovino.dominio\\bovino.dominio.csproj": {
+                "projectPath": "D:\\CuidadoBovinoMinticC3\\bovino.dominio\\bovino.dominio.csproj"
               }
             }
           }
@@ -160,28 +160,28 @@
         }
       },
       "frameworks": {
-        "netstandard2.1": {
-          "targetAlias": "netstandard2.1",
+        "net6.0": {
+          "targetAlias": "net6.0",
           "dependencies": {
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[5.0.0, )"
+              "version": "[6.0.0, )"
             },
             "Microsoft.EntityFrameworkCore.Design": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[5.0.0, )"
+              "version": "[6.0.0, )"
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
-              "version": "[5.0.0, )"
+              "version": "[6.0.0, )"
             },
             "Microsoft.EntityFrameworkCore.Tools": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[5.0.0, )"
+              "version": "[6.0.0, )"
             }
           },
           "imports": [
@@ -196,7 +196,7 @@
           "assetTargetFallback": true,
           "warn": true,
           "frameworkReferences": {
-            "NETStandard.Library": {
+            "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
